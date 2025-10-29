@@ -140,10 +140,13 @@ body{
     background-color: white;
     color: #578941;
     background-position: 0 0;
+    border-color: #578941;
 }
 
 .button:active{
     opacity: 0.5;
+    background-color: #578941 !important;
+    border-color: #578941 !important;
 }
 
 @media(min-width: 100rem){
