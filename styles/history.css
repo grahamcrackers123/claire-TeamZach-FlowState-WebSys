@@ -12,7 +12,7 @@ main {
 }
 
 #history-page{
-  color: #a2d18f;
+  color: #a2d18f !important;
 }
 
 /* ----------------------------- hero section ----------------------------- */
